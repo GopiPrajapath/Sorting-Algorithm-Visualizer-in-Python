@@ -53,6 +53,6 @@ Each sorting algorithm is separated into its own file under the `sorts/` folder 
    cd sorting-visualizer
 2.Run the application:
 ```bash
-python main.py
+  python main.py
 
 
