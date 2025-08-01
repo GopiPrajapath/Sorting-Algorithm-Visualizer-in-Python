@@ -52,7 +52,7 @@ Each sorting algorithm is separated into its own file under the `sorts/` folder 
    git clone https://github.com/your-username/sorting-visualizer.git
    cd sorting-visualizer
 2.Run the application:
-```bash
+  ```bash
   python main.py
 
 
