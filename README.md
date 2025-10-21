@@ -50,7 +50,7 @@ Each sorting algorithm is separated into its own file under the `sorts/` folder 
 1. Clone this repository:
    ```bash
    git clone https://github.com/GopiPrajapath/Sorting-Algorithm-Visualizer-in-Python
-   cd sorting-visualizer
+   cd Sorting-Algorithm-Visualizer-in-Python
 2.Run the application:
   ```bash
   python main.py
